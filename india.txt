@@ -1,0 +1,72 @@
+<html>
+<body background="C:\Users\admin\OneDrive\Desktop\no 1 coder\indian-independence-day-15-august-tricolor-theme-watercolor-texture-background-free-vector.jpg">
+<center><table border="4" style="width 100%; height 100%" background="C:\Users\admin\OneDrive\Desktop\no 1 coder\wp7231692.jpg" >
+<tr>
+<th><font size="7">National symbol</font></th>
+<th><font size="7">Name</font></th>
+<th><font size="7">Adopted on</font></th>
+<th><font size="7">Image</font></th>
+</tr>
+<tr>
+<td><font size="5">Flower</font></td>
+<td><font size="5">Lotus</font></td>
+<td><font size="5">1950</font></td>
+<td><center><a href="lotus.html"><img src="C:\Users\admin\OneDrive\Desktop\no 1 coder\Nelumno nucifera open flower - botanic garden adelaide2 - National symbols of India - Wikipedia_files\Nelumno_nucifera_open_flower_-_botanic_garden_adelaide2(1).jpg" width="250" height="250"></a></center></td>
+</tr>
+<tr>
+<td><font size="5">Animal</font></td>
+<td><font size="5">Bengal tiger</font></td>
+<td><font size="5">April 1973</font></td>
+<td><center><a href="tiger.html"><img src="C:\Users\admin\OneDrive\Desktop\no 1 coder\Nelumno nucifera open flower - botanic garden adelaide2 - National symbols of India - Wikipedia_files\Adult_male_Royal_Bengal_tiger.jpg" height="250" width="250"></a></center></td>
+</tr>
+<tr>
+<td><font size="5">National bird</font></td>
+<td><font size="5">Indian peafowl</font></td>
+<td><font size="5">1 February 1963</font></td>
+<td><center><a href="peacock.html"><img src="C:\Users\admin\OneDrive\Desktop\no 1 coder\Peacock_Milwaukee_County_Zoo.jpg" height="250" width="250"></a></center></td>
+</tr>
+<tr>
+<td><font size="5">National heritage animal</font></td>
+<td><font size="5">Indian elephant</font></td>
+<td><font size="5">22 October 2010</font></td>
+<td><center><a href="elephant.html"><img src="C:\Users\admin\OneDrive\Desktop\no 1 coder\Elephas_maximus_(Bandipur).jpg" height="250" width="250"></a></center></td>
+</tr>
+<tr>
+<td><font size="5">Tree</font></td>
+<td><font size="5">Indian Banyan</font></td>
+<td><font size="5">1950</font></td>
+<td><center><a href="banyan.html"><img src="C:\Users\admin\OneDrive\Desktop\no 1 coder\shutterstock-548322034.jpg" height="250" width="250"></a></center></td>
+</tr>
+<tr>
+<td><font size="5">Flag</font></td>
+<td><font size="5">Tiranga</font></td>
+<td><font size="5">15 August 1947</font></td>
+<td><center><a href="trianga.html"><img src="C:\Users\admin\OneDrive\Desktop\no 1 coder\1317182.jpg" height="250" width="250"></a></center></td>
+</tr>
+<tr>
+<td><font size="5">Fruit</font></td>
+<td><font size="5">Mango</font></td>
+<td><font size="5">1950</font></td>
+<td><center><a href="mango.html"><img src="C:\Users\admin\OneDrive\Desktop\no 1 coder\mangoo.jpg" height="250" width="250"></a></center></td>
+</tr>
+<tr>
+<td><font size="5">Reptile</font></td>
+<td><font size="5">King cobra</font></td>
+<td><font size="5">-------</font></td>
+<td><center><a href="cobra.html"><img src="C:\Users\admin\OneDrive\Desktop\no 1 coder\GettyImages-1081539198-da2463161bca4538a0dd0028dbaedebc.jpg" height="250" width="250"></a></center></td>
+</tr>
+<tr>
+<td><font size="5">National aquatic animal</font></td>
+<td><font size="5">Ganges river dolphin</font></td>
+<td><font size="5">18 May 2010</font></td>
+<td><center><a href="dolphin.html"><img src="C:\Users\admin\OneDrive\Desktop\no 1 coder\ganges_river_dolphin_c_Mansur-BCDP-WCS.jpeg" height="250" width="250"></a></center></td>
+</tr>
+<tr>
+<td><font size="5">River</font></td>
+<td><font size="5">Ganga</font></td>
+<td><font size="5">4 November 2008</font></td>
+<td><center><a href="ganga.html"><img src="C:\Users\admin\OneDrive\Desktop\no 1 coder\un-18.jpg" height="250" width="250"></a></center></td>
+</tr>
+</TABLE></center>
+</body>
+</html>
