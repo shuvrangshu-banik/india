@@ -11,7 +11,7 @@
 <td><font size="5">Flower</font></td>
 <td><font size="5">Lotus</font></td>
 <td><font size="5">1950</font></td>
-<td><center><a href="lotus.html"><img src="Nelumno nucifera open flower - botanic garden adelaide2 - National symbols of India - Wikipedia_files\Nelumno_nucifera_open_flower_-_botanic_garden_adelaide2(1).jpg" width="250" height="250"></a></center></td>
+<td><center><a href="lotus.html"><img src="Nelumno_nucifera_open_flower_-_botanic_garden_adelaide2(1).jpg" width="250" height="250"></a></center></td>
 </tr>
 <tr>
 <td><font size="5">Animal</font></td>
